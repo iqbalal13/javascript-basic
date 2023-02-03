@@ -1,2 +1,2 @@
 # javascript-basic
-javascript basic code by iqbal
+javascript basic code written by iqbal
