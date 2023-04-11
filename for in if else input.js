@@ -1,4 +1,4 @@
-let person = {
+const person = {
     firstName: "",
     lastName: "",
     age: 0
